@@ -16,7 +16,7 @@ Page with the optimal layout for the site depending on their device's screen siz
 
 ### Links
 - [Solution URL here](https://github.com/KamilaHareza/Testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live site URL here](https://kamilahareza.github.io/Testimonials-grid-section/)
 
 ## My process
 
