@@ -15,7 +15,7 @@ Page with the optimal layout for the site depending on their device's screen siz
 ![](./images/screen.PNG)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL here](https://github.com/KamilaHareza/Testimonials-grid-section)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
